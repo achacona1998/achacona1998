@@ -4,7 +4,7 @@ Studying Informatic Sciencies on National University of Informatic Sciences of H
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ariel-chacon-7a00bb2b4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-chacon-artola-7a00bb2b4)
 
 # 💻 Tech Stack:
 
