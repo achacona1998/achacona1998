@@ -1,6 +1,7 @@
 # 💫 About Me:
 
-Studying Informatic Sciencies on National University of Informatic Sciences of Havana <br>
+I am a software engineer, specializing in Python, Java, JavaScript, HTML, CSS, and frameworks and libraries such as React, Django, Astro, and TailwindCSS. I have led projects that have optimized business processes and improved user experience by 30%. I am seeking opportunities to join an innovative team where I can apply my skills and contribute to the development of advanced technological solutions.
+ <br>
 
 ## 🌐 Socials:
 
